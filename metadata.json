@@ -1,0 +1,6 @@
+{
+  "name": "AMIS - Sistema de Gestão Clínica e Financeira",
+  "description": "Sistema completo para gestão de clínicas médicas com agendamentos multi-usuário, tabela de procedimentos e controle financeiro integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
